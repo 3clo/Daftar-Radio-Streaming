@@ -1,0 +1,89 @@
+{
+  "playlist": "MyRadio - FULL FINAL (Android TV Clean)",
+  "categories": [
+    {
+      "group": "Berita",
+      "stations": [
+        {"name": "Radio RRI Pro 3 Nasional", "url": "https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3"},
+        {"name": "Radio MNC Trijaya", "url": "http://202.147.199.101:8000/;stream.mp3"}
+      ]
+    },
+    {
+      "group": "Jiran Malaysia",
+      "stations": [
+        {"name": "Radio Klasik FM Malaysia", "url": "https://22273.live.streamtheworld.com/RADIO_KLASIKAAC_SC"},
+        {"name": "Radio Era FM Malaysia", "url": "https://n16.rcs.revma.com/crec9cmbv4uvv/16_1np0s8bt7x9dp02/playlist.m3u8"},
+        {"name": "Radio Mutiara FM Malaysia", "url": "https://28093.live.streamtheworld.com/MUTIARA_FMAAC_SC"},
+        {"name": "Radio Kelantan FM Malaysia", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KELANTAN_FMAAC_SC"},
+        {"name": "Radio Nasional FM Malaysia", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC_SC"},
+        {"name": "Radio Suria FM Malaysia", "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC_SC"}
+      ]
+    },
+    {
+      "group": "Pop & Hits",
+      "stations": [
+        {"name": "CRadio Semarang", "url": "https://stream.cradio.co.id/cradio.aac"},
+        {"name": "Radio Dengerin Musik Indonesia", "url": "https://stream.denger.in/musik.mp3"},
+        {"name": "Radio Delta FM Jakarta", "url": "https://s1.cloudmu.id/listen/delta_fm/radio.mp3"},
+        {"name": "Radio Ardan Bandung", "url": "https://n06.rcs.revma.com/ugpyzu9n5k3vv"},
+        {"name": "Radio Oz Bandung", "url": "http://e15149.cloudrad.io:8000/ozbandung"},
+        {"name": "Radio Kis FM Semarang", "url": "https://stream.radiokis.id:8443/kisfm2"},
+        {"name": "Radio Global Jakarta", "url": "https://stream.roov.id:8064/stream"},
+        {"name": "Radio Rama Bandung", "url": "https://i.klikhost.com/8330/"},
+        {"name": "Radio Iswara", "url": "https://n0e.radiojar.com/4ywdgup3bnzuv"},
+        {"name": "Radio Suara Surabaya", "url": "https://c5.siar.us/proxy/ssfm/stream"}
+      ]
+    },
+    {
+      "group": "Dangdut & Daerah",
+      "stations": [
+        {"name": "Radio Dahlia FM Bandung", "url": "https://svara-stream.radioddns.net/bandung_dahliafm"},
+        {"name": "Radio RDI (Radio Dangdut Indonesia)", "url": "https://stream.roov.id:8062/stream"},
+        {"name": "Radio RRI Suara Dangdut", "url": "https://stream-node2.rri.co.id/streaming/40/9340/dangdut.mp3"},
+        {"name": "Radio Mettaswara Dangdut", "url": "https://mettaswara.com:8700/d4d"},
+        {"name": "Radio Mettaswara Koplo", "url": "https://mettaswara.com:8700/koplo"},
+        {"name": "Radio Gentara", "url": "https://s1.gntr.net/radio/8080/gentara"},
+        {"name": "Radio Sunda", "url": "https://sundaradio.com/live/sundaradio"},
+        {"name": "Radio Campursari", "url": "https://a8.siar.us/listen/campursari/stream"},
+        {"name": "Radio Mettaswara Campur Sari", "url": "https://mettaswara.com:8700/cps"},
+        {"name": "Radio Mettaswara Jawa", "url": "https://mettaswara.com:8700/java"}
+      ]
+    },
+    {
+      "group": "Mettaswara Musik",
+      "stations": [
+        {"name": "Radio Mettaswara Indonesia", "url": "https://mettaswara.com:8700/indo"},
+        {"name": "Radio Mettaswara Indo 2000", "url": "https://mettaswara.com:8700/indo00"},
+        {"name": "Radio Mettaswara Indo Gold", "url": "https://mettaswara.com:8700/disco"},
+        {"name": "Radio Mettaswara Mix", "url": "https://mettaswara.com:8700/mix"},
+        {"name": "Radio Mettaswara Relax", "url": "https://mettaswara.com:8700/metta"},
+        {"name": "Radio Mettaswara Slow", "url": "https://mettaswara.com:8700/slow"}
+      ]
+    },
+    {
+      "group": "RRI Network",
+      "stations": [
+        {"name": "Radio RRI Jakarta Pro 2", "url": "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3"},
+        {"name": "Radio RRI Pro 5 Surabaya", "url": "https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3"},
+        {"name": "Radio RRI Pro 5 Makassar", "url": "https://stream-node0.rri.co.id/streaming/22/9022/rrimakasarpro5.mp3"},
+        {"name": "Radio RRI Bandung Pro 4", "url": "https://stream-node0.rri.co.id/streaming/15/9015/rribandungpro4.mp3"},
+        {"name": "Radio RRI Tanjung Pinang Pro 4", "url": "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro4.mp3"},
+        {"name": "Radio RRI Pontianak Pro 4", "url": "https://stream-node1.rri.co.id/streaming/12/9212/rripontianakpro4.mp3"},
+        {"name": "Radio RRI Kanal Kenangan", "url": "https://stream-node2.rri.co.id/streaming/40/9340/memori.mp3"}
+      ]
+    },
+    {
+      "group": "Religi Islam",
+      "stations": [
+        {"name": "Radio MQFM Bandung", "url": "http://mqfmstreaming.kamil.web.id:8200/"},
+        {"name": "Radio Rodja", "url": "https://radioislamindonesia.com/rodja.mp3"},
+        {"name": "Radio Muslim", "url": "https://streaming.radiomuslim.com/stream/1"},
+        {"name": "Radio Fajri", "url": "https://ars.mitradio.com:8000/radio.mp3"},
+        {"name": "Radio Tarbiyyah Sunnah", "url": "https://radioislamindonesia.com/tarbiyah.mp3"},
+        {"name": "Radio Hijrah FM", "url": "http://streaming.hijrahfm.com:443/hijrah1023fm"},
+        {"name": "Radio Percikan Iman", "url": "https://s5.alhastream.com:8030/radio"},
+        {"name": "Radio Nasyid FM", "url": "http://stereo.nasyidfm.com:8000/"}
+      ]
+    }
+  ]
+}
