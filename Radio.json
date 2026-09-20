@@ -23,7 +23,6 @@
       "group": "Pop & Hits",
       "stations": [
         {"name": "CRadio Semarang", "url": "https://stream.cradio.co.id/cradio.aac"},
-        {"name": "Radio Dengerin Musik Indonesia", "url": "https://stream.denger.in/musik.mp3"},
         {"name": "Radio Delta FM Jakarta", "url": "https://s1.cloudmu.id/listen/delta_fm/radio.mp3"},
         {"name": "Radio Ardan Bandung", "url": "https://n06.rcs.revma.com/ugpyzu9n5k3vv"},
         {"name": "Radio Oz Bandung", "url": "http://e15149.cloudrad.io:8000/ozbandung"},
